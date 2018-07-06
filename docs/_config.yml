@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : "mmistakes/minimal-mistakes"
+# remote_theme             : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua_chenmengyao" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -15,9 +15,9 @@ title                    : "使用minimal-mistakes主题的Jekyll网站"
 title_separator          : "："
 name                     : &name"陈梦瑶" # &name is a YAML anchor which can be *referenced later
 description              : &description"使用Jekyll搭建的网站"
-url                      : "https://hailbucky.gitee.io/minimal-mistakes/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gitee.com/HailBucky/minimal-mistakes/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "hailbucky/minimal-mistakes"
+repository               : "HailBucky/minimal-mistakes"
 teaser                   : "500x300.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
