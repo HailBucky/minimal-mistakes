@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "陈梦瑶"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "中山大学南方学院 文学与传媒学院 "
+  location         : "广东-广州"
+  email            : "2645876913@qq.com"
+  uri              : "https://gitee.com/HailBucky/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
