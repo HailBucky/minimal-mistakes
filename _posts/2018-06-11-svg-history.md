@@ -17,8 +17,7 @@ tags:
 
  
   - svg
-
- 
+classes: wide
 ---
 
  
