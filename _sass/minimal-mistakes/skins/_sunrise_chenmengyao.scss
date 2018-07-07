@@ -20,6 +20,12 @@ $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
+/* system typefaces 使用中文字形 */
+$serif: Georgia, Times, serif !default;
+$sans-serif: YouYuan,\\5E7C\5706,幼圆,"Helvetica Neue","Segoe UI",-apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+
 /* sunrise syntax highlighting (base16) */
 $base00: #1d1f21 !default;
 $base01: #282a2e !default;
