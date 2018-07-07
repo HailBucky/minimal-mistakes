@@ -32,7 +32,8 @@ classes: wide
  
 {% include toc title="Getting Started" %}
 
- 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 ## SVG的定义  
 
 - SVG意为**可缩放矢量图形**（Scalable Vector Graphics）
