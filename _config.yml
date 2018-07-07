@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "陈梦瑶"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "中山大学南方学院 文学与传媒学院 "
   location         : "广东-广州"
   email            : "2645876913@qq.com"
