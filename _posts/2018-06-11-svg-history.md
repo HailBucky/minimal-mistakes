@@ -38,15 +38,12 @@ tags:
 
 - SVG意为**可缩放矢量图形**（Scalable Vector Graphics）
 
-## 简单的svg图片
+## 简单的svg动画
 
 
-<svg width="500" height="500" >
-    <circle 
-        cx="200" 
-        cy="200" 
-        r="120" 
-        stroke="purple" 
-        stroke-width="4" 
-        fill="none"/>
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <g> 
+    <text font-family="microsoft yahei" font-size="120" y="120" x="100">svg</text>
+    <animateTransform attributeName="transform" begin="0s" dur="10s" type="rotate" from="0 160 160" to="360 160 160" repeatCount="indefinite"/>
+  </g>
 </svg>
