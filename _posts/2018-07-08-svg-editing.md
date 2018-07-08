@@ -5,25 +5,12 @@ title:  "简单的svg动画"
  
 modified: 2018-07-07T16:03:49-04:00
 
- 
-categories: 
-
- 
-  - 网页设计
-
- 
-tags:
-
- 
-  - svg
 classes: wide
 ---
-
  
 {% include base_path %}
- 
-{% include toc title="Getting Started" %}
 
+{% include toc title="目录" %}
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 ## SVG动画的制作  
