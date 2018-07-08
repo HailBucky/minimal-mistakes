@@ -29,7 +29,7 @@ classes: wide
 ## SVG的制作
 - 通过代码来制作一些图形（例如圆圈、矩形等）还算是相对容易的操作，但是不知道如何进一步的进行更加复杂的SVG动画的制作。
  
-<svg >
+<svg version="1.1">
   <circle cx="100" cy="50" r="40" stroke=brown "
   stroke-width="3" fill="lightgreen"/>
 </svg> 
