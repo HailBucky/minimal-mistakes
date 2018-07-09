@@ -1,6 +1,8 @@
 ---
 
 title:  "较复杂的svg动画"
+classes: wide
+header:
   overlay_image: /images/waterfall.jpg 
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 #  cta_label: "More Info" 
