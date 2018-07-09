@@ -12,3 +12,16 @@ main:
     url: /about/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
+docs:
+  - title: svg制作
+    url: https://hailbucky.gitee.io/minimal-mistakes/svg/
+
+  - title: 界面设计
+    url: https://hailbucky.gitee.io/minimal-mistakes/design/#界面设计
+
+  - title: 平面设计
+    url: https://hailbucky.gitee.io/minimal-mistakes/design/#界面设计
+    
+- title: about
+    url: https://hailbucky.gitee.io/minimal-mistakes/about/
