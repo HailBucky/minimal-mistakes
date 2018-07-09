@@ -1,7 +1,12 @@
 ---
 
 title:  "简单的svg动画"
-
+  overlay_image: /images/waterfall.jpg 
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+#  cta_label: "More Info" 
+#  cta_url: "https://unsplash.com"
+  caption:
+excerpt: 'SVG制作'
 ---
  
 
