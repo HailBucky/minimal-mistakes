@@ -44,5 +44,3 @@ svg {
   }
 }
 </style>
-<script src="https:////code.h5jun.com/js/render/edit.js?3.40.2"></script>
-<script>jsbinShowEdit && jsbinShowEdit({"static":"https:////code.h5jun.com","root":"//code.h5jun.com"});</script>
