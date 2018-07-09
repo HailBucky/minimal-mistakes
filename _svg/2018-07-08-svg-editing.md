@@ -13,7 +13,7 @@ title:  "简单的svg动画"
 
 ## 旋转着的爱心
 
-<svg width="500" height="500" >
+<svg width="300" height="300" >
   <g> 
     <text font-family="microsoft yahei" font-size="120" y="120" x="100">❤</text>
     <animateTransform attributeName="transform" begin="0s" dur="10s" type="rotate" from="0 160 160" to="360 160 160" repeatCount="indefinite"/>
