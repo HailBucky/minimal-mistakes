@@ -25,6 +25,10 @@ $serif: DFKai-SB,Kai,Kaiti SC,KaiTi,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,Songt
 $sans-serif: "Helvetica Neue",YouYuan,\\5E7C\5706,幼圆,"Segoe UI",-apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI","Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
+p {
+ font-family: $caption-font-family;
+}
+
 /* sunrise syntax highlighting (base16) */
 $base00: #1d1f21 !default;
 $base01: #282a2e !default;
